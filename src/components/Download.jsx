@@ -10,7 +10,7 @@ const Download = () => {
           <h1 className={`${styles.h1Text} ${styles.blackText}`}>Download the Source Code</h1>
           <p className={`${styles.pText} ${styles.blackText}`}>Get the full source code on GitHub</p>
         </div>
-        <button className={styles.btnPrimary}>Source Code</button>
+        <a href="https://github.com/LinxCreations/niftee"><button className={styles.btnPrimary}>Source Code</button></a>
         <div className={styles.flexCenter}>
           <img src={assets.scene} alt="download_png"
           className={styles.fullImg}/>
