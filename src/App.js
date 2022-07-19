@@ -44,5 +44,3 @@ const App = () => {
 }
 
 export default App;
-
-// last watched 2:56:35 --> Deployment
